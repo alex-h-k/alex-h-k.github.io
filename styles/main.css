@@ -108,7 +108,7 @@ article {
 	text-align: center;
 }
 footer {
-	border-top:2px solid #fc575e;
+	border-top:1px solid #fc575e;
 	position: absolute;
 	bottom:0px;
 	padding:20px;
@@ -128,6 +128,32 @@ div .about-me {
 	background-image: url(../image/aboutme.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
-	height: 700px;
+	height: 1080px;
 	font-size: 20px;
+}
+div .technical2 {
+	height: 650px;
+	background-color: #ddd;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 22px;
+}
+div .technical2 hr {
+	border: 1px solid grey;
+	width: 800px;
+}
+
+div .technical2 p {
+	padding-top: 30px;
+}
+div .technical2 .demo-image {
+	font-size: 18px;
+}
+div .technical3 {
+	height: 650px;
+	background-color: #ddd;
+}
+div .technical3 li{
+	list-style-type: initial;
+	line-height: 30px;
 }
