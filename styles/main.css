@@ -123,12 +123,12 @@ footer {
 }
 
 div .about-me {
-	padding-top: 70px;
+	padding-top: 50px;
     text-align: center;
 	background-image: url(../image/aboutme.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
-	height: 1080px;
+	height: 800px;
 	font-size: 20px;
 }
 div .technical2 {
@@ -156,4 +156,14 @@ div .technical3 {
 div .technical3 li{
 	list-style-type: initial;
 	line-height: 30px;
+}
+div .core5 {
+	height: 500px;
+	background-color: #ddd;
+	padding-top: 20px;
+	text-align: center;
+
+}
+div .core5 hr {
+	margin: 0 350px;
 }
